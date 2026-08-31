@@ -4,11 +4,11 @@ An Arduino based heating and cooling controller using a Peltier module and a hea
 
 ## Prototype
 
-![Prototype](images/1.png)
+![Prototype](Images/1.png)
 
-![Electronics](images/2.png)
+![Electronics](Images/2.png)
 
-![Thermal Setup](images/3.png)
+![Thermal Setup](Images/3.png)
 
 ## Features
 
